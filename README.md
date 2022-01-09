@@ -10,7 +10,7 @@
 
     Online Certification:
         Udemy
-            Full Stack Web Development by Acadmind.
+            Full Stack Web Development.
         GeeksForGeeks:
             Data Structures and Algorithms.
         Upgrad:
