@@ -4,7 +4,7 @@
     
     🌱I am currently in my third year and work part-time as Student Assistant with IT Support at University of Saskatchewan. Also doing Online courses on Udemy and GeeksForGeeks
 
-    👀 I’m interested in Java, Databases(MySql, SQLite anything), Web/Mobile Apps.
+    👀 I’m interested in Java, Python, Databases(MySql, SQLite anything), Web/Mobile Apps.
 
     💞️ I’m looking to collaborate on any complex Technical Business Logics.
 
