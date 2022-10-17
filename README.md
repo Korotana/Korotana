@@ -11,6 +11,7 @@
     Online Certification:
         Udemy
             Full Stack Web Development.
+            Python Django Full stack Development
         GeeksForGeeks:
             Data Structures and Algorithms.
         Upgrad:
