@@ -4,7 +4,7 @@
     
     🌱I am currently in my fourth year and work part-time as Student Assistant with IT Support at University of Saskatchewan. Also doing Online courses on Udemy and GeeksForGeeks
 
-    👀 I’m interested in Java, Python, Databases(MySql, SQLite anything), Web/Mobile Apps.
+    👀 I’m interested in Java, Python, Databases(MySql, NoSQL anything), Web/Mobile Apps.
 
     💞️ I’m looking to collaborate on any complex Technical Business Logics.
 
@@ -12,8 +12,7 @@
         Udemy
             Full Stack Web Development.
             Python Django Full stack Development
-        GeeksForGeeks:
-            Data Structures and Algorithms.
+        PHP and MySQL ISO-9001 Certified.    
         Upgrad:
             Node.Js
 
