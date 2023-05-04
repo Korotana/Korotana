@@ -18,6 +18,5 @@
 
     📫 Feel free to reach me on the followings:
         Email: yuvrajkorotana1999@gmail.com
-        Phone: +1 3067162100 
         LinkedIn: www.linkedin.com/in/YKorotana
 
