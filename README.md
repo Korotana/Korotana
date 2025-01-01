@@ -1,6 +1,6 @@
 
 
-    👋 Hi, I’m Yuvraj Korotana. I am currently enrolled at the prestigious University of Saskatchewan in a undergraduate program in Computer Science.
+    👋 Hi, I’m Yuvraj Korotana. I am currently enrolled at the prestigious University of Saskatchewan in an undergraduate program in Computer Science.
     
     🌱I am currently in my fourth year at the University of Saskatchewan. 
     
@@ -25,6 +25,6 @@
 
 
     📫 Feel free to reach me on the following:
-        Email: yuvrajkorotana1999@gmail.com
+        Email: yuvrajkorotanajobs@gmail.com
         LinkedIn: www.linkedin.com/in/YKorotana
 
