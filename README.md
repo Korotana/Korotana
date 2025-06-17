@@ -8,10 +8,9 @@
 
     My technical experience includes:
 
-    Programming Languages: Python, Java, JavaScript, C/C++, C#, SQL
+    Programming Languages: Python, Java, JavaScript, SQL
     Frameworks and Libraries: Django, Node.js, Express.js, React.js, JavaFX, Mongoose, MySQL, MongoDB
     Tools and Technologies: Git, GitLab CI/CD, OutSystems, Selenium, Docker, Kubernetes, AWS
-    AI and Machine Learning: ChatGPT, Gemini, LaMDA, Copilot
 
     My projects showcase my skills in:
 
