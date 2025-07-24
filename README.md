@@ -2,7 +2,7 @@
 
     👋 Hi, I’m Yuvraj Korotana. I am currently enrolled at the prestigious University of Saskatchewan in an undergraduate program in Computer Science.
     
-    🌱I am currently in my fourth year at the University of Saskatchewan. 
+    🌱I am a recent graduate from the University of Saskatchewan. 
     
     I'm a passionate Full Stack Developer with a strong foundation in various programming languages and technologies. I'm always eager to learn and explore new tools and techniques.
 
